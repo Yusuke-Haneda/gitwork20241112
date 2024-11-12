@@ -8,3 +8,5 @@ Hello git!
 1行追加
 
 Hello GitHub!
+
+Hello Ubuntu!
